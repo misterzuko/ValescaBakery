@@ -8,4 +8,4 @@ This is Under Develompent Project to my friend Commercial Store. It is a simple,
 
 ##🌐 Website Demo
 Check out the live demo of the website here:
-Valesca Bakery( https://misterzuko69.github.io/ValescaBakery )
+[Valesca Bakery](https://misterzuko69.github.io/ValescaBakery)
