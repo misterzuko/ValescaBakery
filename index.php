@@ -1,20 +1,3 @@
-<?php
-
-$host = 'localhost';
-$username = 'root';
-$password = '';
-$dbname = 'db_valesca';
-$port = 3308;
-
-//Create conncetion to MySQL
-$conn = new mysqli ($host, $username, $password, $dbname, $port);
-
-//Ngecek koneksi
-if($conn->connect_error){
-    die("Failed to connect".$conn->connect_error);
-}?>
-
-
 <!DOCTYPE html>
 <html lang="en">
 
@@ -78,7 +61,7 @@ if($conn->connect_error){
         <div class="collapse navbar-collapse" id="navbarNav">
             <img class="img-fluid" id="logo" src="/Logo.PNG">
             <ul class="navbar-nav">
-                <li class="nav-item pr-4"><a class="nav-link" href="/Home.html">Home</a></li>
+                <li class="nav-item pr-4"><a class="nav-link" href="/index.html">Home</a></li>
                 <li class="nav-item pr-4"><a class="nav-link" href="/AboutUs.html">About Us</a></li>
                 <li class="nav-item dropdown pr-4">
                     <a class="nav-link" href="/Product.html">
