@@ -6,6 +6,7 @@ At Valesca Bakery, we believe that good food brings people together. Our bakery 
 ## 📖 About This Project
 
 This is Under Develompent Project from my friend Commercial Store. It is a simple, responsive static website showcasing our menu, customer testimonials, and the story behind our bakery. Built using HTML, CSS, and JavaScript.
+Update : Project Finished [ 19 Feb 2024 ]
 
 ## 🌐 Website Demo
 
