@@ -10,4 +10,4 @@ This is Under Develompent Project from my friend Commercial Store. It is a simpl
 ## 🌐 Website Demo
 
 Check out the live demo of the website here:
-[Valesca Bakery](https://misterzuko.github.io/ValescaBakery)
+[Valesca Bakery](https://valescabakery.com)
